@@ -4,3 +4,4 @@ map.pl
 Shading_RawFiles/*
 Temperature_RawFiles/*
 Shading_OTUTables/vsearch_pipeline.out
+CBAS_Skin/*
